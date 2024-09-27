@@ -1,0 +1,245 @@
+.Titulo{
+    margin: 33px 10px 20px 810px
+    
+}
+
+.topicos{
+    padding-left: 33%;
+    font-weight: lighter;
+}
+
+.introdução{
+    font-weight: bold;
+    text-align: center;
+}
+
+.bandeira{
+    margin-left: 33%; 
+    border-radius: 100px; 
+
+}
+
+
+.iniciointrodução{
+    text-align: center;
+    margin-left: auto;  
+    font-size: large;
+}
+
+.espaco{
+    text-align: center;
+    text-align: justify;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.nextpage{
+    margin-top: 4%;
+    margin-left: 45%;
+    background-color: white;
+    cursor: pointer; 
+}
+
+.Titulo02{
+    margin-left: 42%;
+    margin-top: 3%;
+    font-weight: bolder;
+}
+ 
+.descrição{
+    margin-left: -3%;
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hype{
+    margin-left: 22%;
+    border-radius: 200px; 
+}
+
+.direita{
+    text-align: center;
+    text-align: justify;
+    float: left; 
+    margin-left: 10%;
+    width: 200px; 
+    height: auto;
+    margin-top: -1400px;
+    display: flex;
+    font-size: larger;
+    
+}
+
+.esquerda{
+    text-align: center;
+    text-align: justify;
+    float: right; 
+    margin-right: 10%;
+    width: 200px; 
+    height: auto;
+    margin-top: -1340px;
+    display: flex;
+    font-size: larger;
+}
+
+
+.castelo{
+    margin-left: 22%;
+    border-radius: 200px; 
+    margin-top: 5%;
+}
+
+.Titulo03{
+    margin-bottom: 60%;
+    position: absolute;
+    top: 97%; 
+    left: 42%;
+}
+
+.esquerda02{
+
+    text-align: center;
+    text-align: justify;
+    float: right; 
+    margin-right: 10%;
+    width: 200px; 
+    height: auto;
+    margin-top: -660px;
+    display: flex;
+    font-size: larger;
+
+}
+
+.direita02{
+
+    text-align: center;
+    text-align: justify;
+    float: left; 
+    margin-left: 10%;
+    width: 200px; 
+    height: auto;
+    margin-top: -678px;
+    display: flex;
+    font-size: larger;
+
+}
+
+.Titulo04{
+    margin-left: 45%;
+    margin-top: 2%;
+    font-weight: bolder;
+}
+
+.Stonehenge{
+
+    margin-left: 2%;
+    border-radius: 200px; 
+    margin-top: -0%;
+}
+
+.direita03{
+
+    text-align: center;
+    text-align: justify;
+    float: left; 
+    margin-left: 10%;
+    width: 200px; 
+    height: auto;
+    margin-top: 59px;
+    display: flex;
+    font-size: larger;
+
+}
+
+.esquerda03{
+
+    text-align: center;
+    text-align: justify;
+    float: right; 
+    margin-right: 10%;
+    width: 200px; 
+    height: auto;
+    margin-top: 200px;
+    display: flex;
+    font-size: larger;
+
+}
+
+.nextpage2{
+
+    margin-top: 4%;
+    margin-left: 45%;
+    background-color: white;
+    cursor: pointer; 
+
+}
+
+
+
+/* Estilos básicos */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+header {
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+/* Estilos para as curiosidades */
+.curiosidades {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.curiosidade-item {
+    width: 80%;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.curiosidade-item img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.curiosidade-item .texto {
+    max-width: 600px;
+}
+
+
+
+footer p {
+    margin: 0;
+}
+
+
+body{
+    background-color: beige;
+}
